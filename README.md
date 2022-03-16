@@ -34,7 +34,7 @@ GitHub: [@franclobo](https://github.com/franclobo)
 
 Twitter: [@pancho2788](https://twitter.com/Pancho2788)
 
-LinkedIn: [Francisco Borja](www.linkedin.com/in/francisco-javier-borja-lobato-84520899)
+LinkedIn: [Francisco Borja](https://www.linkedin.com/in/francisco-javier-borja-lobato-84520899)
 
 
 # 🤝 Contributing
