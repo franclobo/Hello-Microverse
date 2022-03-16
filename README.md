@@ -28,6 +28,7 @@ No Live Demo Link.
 - [Linters](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/clean-code/linters.md)
 - [Git & GitHub & GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/git_github_basics.md)
 - [Document your repository in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/clean_repo.md)
+
 Install linters, npm, node
 
 # Authors
