@@ -29,8 +29,6 @@ No Live Demo Link.
 - [Git & GitHub & GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/git_github_basics.md)
 - [Document your repository in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/clean_repo.md)
 
-Install linters, npm, node
-
 # Authors
 
 ## 👤 Francisco Borja
@@ -39,7 +37,7 @@ GitHub: @franclobo
 
 Twitter: @pancho2788
 
-LinkedIn: www.linkedin.com/in/francisco-javier-borja-lobato-84520899
+LinkedIn: [Francisco Borja](www.linkedin.com/in/francisco-javier-borja-lobato-84520899)
 
 
 # 🤝 Contributing
@@ -49,6 +47,4 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
