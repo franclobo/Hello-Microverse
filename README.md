@@ -8,9 +8,6 @@ HTML & CSS
 
 GitHub & Visual Studio Code
 
-# Live Demo (if available)
-No Live Demo Link.
-
 # Getting Started
 
 - Create branches with different base branches.
@@ -24,8 +21,8 @@ No Live Demo Link.
 
 # Prerequisites
 
-- [HTML & CSS](https://github.com/microverseinc/linters-config/tree/master/html-css)
 - [Linters](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/clean-code/linters.md)
+- [HTML & CSS](https://github.com/microverseinc/linters-config/tree/master/html-css)
 - [Git & GitHub & GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/git_github_basics.md)
 - [Document your repository in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/clean_repo.md)
 
@@ -33,9 +30,9 @@ No Live Demo Link.
 
 ## 👤 Francisco Borja
 
-GitHub: @franclobo
+GitHub: [@franclobo](https://github.com/franclobo/Hello-Microverse/tree/hello)
 
-Twitter: @pancho2788
+Twitter: [@pancho2788](https://twitter.com/Pancho2788)
 
 LinkedIn: [Francisco Borja](www.linkedin.com/in/francisco-javier-borja-lobato-84520899)
 
