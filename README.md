@@ -5,10 +5,11 @@ In this project, I set up a "Hello world" repository. No complex coding was requ
 # Built With
 
 HTML & CSS
+
 GitHub & Visual Studio Code
 
 # Live Demo (if available)
-No Live Demo Link
+No Live Demo Link.
 
 # Getting Started
 
@@ -23,7 +24,10 @@ No Live Demo Link
 
 # Prerequisites
 
-HTML & CSS, Linters, Git & GitHub & GitHub Flow, Document your repository in a professional way.
+- [HTML & CSS](https://github.com/microverseinc/linters-config/tree/master/html-css)
+- [Linters](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/clean-code/linters.md)
+- [Git & GitHub & GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/git_github_basics.md)
+- [Document your repository in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/clean_repo.md)
 Install linters, npm, node
 
 # Authors
@@ -31,8 +35,11 @@ Install linters, npm, node
 ## 👤 Francisco Borja
 
 GitHub: @franclobo
+
 Twitter: @pancho2788
+
 LinkedIn: www.linkedin.com/in/francisco-javier-borja-lobato-84520899
+
 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
