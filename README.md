@@ -30,7 +30,7 @@ GitHub & Visual Studio Code
 
 ## 👤 Francisco Borja
 
-GitHub: [@franclobo](https://github.com/franclobo/Hello-Microverse/tree/hello)
+GitHub: [@franclobo](https://github.com/franclobo)
 
 Twitter: [@pancho2788](https://twitter.com/Pancho2788)
 
